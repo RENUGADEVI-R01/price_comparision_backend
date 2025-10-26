@@ -1,0 +1,3 @@
+sku,title,description,vendor_name,vendor_url,price,currency,product_url,is_in_stock
+SKU001,Phone X,Good phone,Flipkart,https://flipkart.com/phone-x,12999,INR,https://flipkart.com/phone-x,true
+SKU002,Headphone Y,Headphone,Amazon,https://amazon.in/headphone-y,1999,INR,https://amazon.in/headphone-y,true
